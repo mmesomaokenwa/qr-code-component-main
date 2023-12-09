@@ -17,19 +17,18 @@ body {
 
 .container {
     background-color: var(--white);
-    max-width: 250px;
+    width: 250px;
     margin: 4rem auto;
     border-radius: 12px;
 }
 
 .qr-code {
-    width: 95%;
-    margin-inline: auto;
+    padding: 10px;
 }
+
 img {
     width: 100%;
     border-radius: 12px;
-    margin-top: 6px;
 }
 
 h3 {
